@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="next_button">Next</string>
+    <string name="text_view_title">Question</string>
+    <string name="question_one">How tall is pałac Kultury?</string>
+    <string name="answer_one">110</string>
+    <string name="answer_two">170</string>
+    <string name="answer_three">220</string>
+    <string name="answer_four">188</string>
+
+    <string name="question_two">What color is background?</string>
+    <string name="answer_two_one">White</string>
+    <string name="answer_two_two">Black</string>
+    <string name="answer_two_three">Blue</string>
+    <string name="answer_two_four">Gray</string>
+</resources>
